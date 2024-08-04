@@ -1,0 +1,7 @@
+E:\Taldo codigo\Jogo\acertou perdeu\acertou perdeu\bin\Debug\acertou perdeu.exe.config
+E:\Taldo codigo\Jogo\acertou perdeu\acertou perdeu\bin\Debug\acertou perdeu.exe
+E:\Taldo codigo\Jogo\acertou perdeu\acertou perdeu\bin\Debug\acertou perdeu.pdb
+E:\Taldo codigo\Jogo\acertou perdeu\acertou perdeu\obj\Debug\acertou perdeu.csproj.AssemblyReference.cache
+E:\Taldo codigo\Jogo\acertou perdeu\acertou perdeu\obj\Debug\acertou perdeu.csproj.CoreCompileInputs.cache
+E:\Taldo codigo\Jogo\acertou perdeu\acertou perdeu\obj\Debug\acertou perdeu.exe
+E:\Taldo codigo\Jogo\acertou perdeu\acertou perdeu\obj\Debug\acertou perdeu.pdb
