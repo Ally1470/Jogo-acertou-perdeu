@@ -1,0 +1,7 @@
+E:\Taldo codigo\acertou perdeu 2\bin\Debug\acertou perdeu 2.exe.config
+E:\Taldo codigo\acertou perdeu 2\bin\Debug\acertou perdeu 2.exe
+E:\Taldo codigo\acertou perdeu 2\bin\Debug\acertou perdeu 2.pdb
+E:\Taldo codigo\acertou perdeu 2\obj\Debug\acertou perdeu 2.csproj.AssemblyReference.cache
+E:\Taldo codigo\acertou perdeu 2\obj\Debug\acertou perdeu 2.csproj.CoreCompileInputs.cache
+E:\Taldo codigo\acertou perdeu 2\obj\Debug\acertou perdeu 2.exe
+E:\Taldo codigo\acertou perdeu 2\obj\Debug\acertou perdeu 2.pdb
